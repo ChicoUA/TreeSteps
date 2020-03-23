@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">TreeSteps</string>
+    <string name="profile">Profile</string>
+    <string name="store">Store</string>
+    <string name="log_out">Log Out</string>
+    <string name="distances_from_today">Distances from today</string>
+    <string name="walking_n_n_0m">Walking\n\n0m</string>
+    <string name="bike_riding_n_n0m">Bike Riding\n\n0m</string>
+    <string name="_0">0</string>
+    <string name="credits_made_today">Credits Made Today</string>
+    <string name="activity_unknown">Unknown</string>
+    <string name="activity_in_vehicle">In Vehicle</string>
+    <string name="activity_on_bicycle">On Bycicle</string>
+    <string name="activity_on_foot">On Foot</string>
+    <string name="activity_running">Running</string>
+    <string name="activity_still">Still</string>
+    <string name="activity_tilting">Tilting</string>
+    <string name="activity_walking">walking</string>
 </resources>
