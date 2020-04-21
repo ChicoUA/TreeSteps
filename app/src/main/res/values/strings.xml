@@ -16,4 +16,10 @@
     <string name="activity_still">Still</string>
     <string name="activity_tilting">Tilting</string>
     <string name="activity_walking">walking</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="email">Email:</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="my_cupons">My Cupons</string>
 </resources>

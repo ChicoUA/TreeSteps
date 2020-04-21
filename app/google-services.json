@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1027396720566",
+    "firebase_url": "https://treesteps-9a1a1.firebaseio.com",
+    "project_id": "treesteps-9a1a1",
+    "storage_bucket": "treesteps-9a1a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027396720566:android:4509c5a21cb21761e8d317",
+        "android_client_info": {
+          "package_name": "pt.ua.icm.treesteps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027396720566-v1k5brcu0ech9423tsltn2t5ub4f238o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pt.ua.icm.treesteps",
+            "certificate_hash": "e655dab1f1033b50a3e1c7984e6f5533409f3393"
+          }
+        },
+        {
+          "client_id": "1027396720566-ov4atiakvlp8kuloa9gacnv3lmpu5h4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvf9Ls2wZnUYzvl0Q0tBNRYD7E5JVs50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027396720566-ov4atiakvlp8kuloa9gacnv3lmpu5h4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

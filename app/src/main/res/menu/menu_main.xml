@@ -14,6 +14,11 @@
         app:showAsAction="never" />
 
     <item
+        android:title="@string/my_cupons"
+        android:id="@+id/my_cupons"
+        app:showAsAction="never" />
+
+    <item
         android:title="@string/log_out"
         android:id="@+id/log_out"
         android:icon="@drawable/exit_door"
